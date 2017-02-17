@@ -37,10 +37,7 @@
     text-align: center;
     height: 60px;
     padding: 140px;
-}
-.middlepics{
-
-}
+ }
 .left{
   float: left;
 }
@@ -54,6 +51,12 @@
   height: 25px;
   padding: 60px;
 }
-.container{
-  height: : : : 200px
+.drink{
+  background-image: url("../images/drink1.jpg");
+  float: right;
+  height: 50px;
+  padding: 120px;
+}
+.right{
+  float: right;
 }
