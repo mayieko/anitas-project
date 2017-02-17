@@ -6,10 +6,15 @@
 }
 .ht{
   text-align: center;
+  background-color:#ffffff;
+  height:30px;
+  padding: 70px;
 }
 .pt {
     text-align: center;
     background-color: #F15A29;
+    height:30px;
+    padding: 70px;
 }
 .four {
     display: inline-block;
@@ -18,12 +23,37 @@
 .breakfast {
     background-image: url("../images/breakfast.jpg");
     text-align: center;
+    height:60px;
+    padding: 140px;
 }
 .lunch {
     background-image: url("../images/lunch.jpg");
     text-align: center;
+    height: 60px;
+    padding: 140px;
 }
 .dinner {
     background-image: url("../images/dinner.jpg");
     text-align: center;
+    height: 60px;
+    padding: 140px;
+}
+.middlepics{
+
+}
+.left{
+  float: left;
+}
+.food1{
+  background-image: url("../images/fastFood1.jpg");
+  height: 20px;
+  padding: 50px;
+}
+.food2{
+  background-image: url("../images/fastFood2.jpg");
+  height: 20px;
+  padding: 50px;
+}
+.container{
+  padding: : : 200px
 }
