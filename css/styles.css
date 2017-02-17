@@ -1,0 +1,29 @@
+.mainheader{
+  background-image: url("../images/landing.jpg");
+}
+.top{
+  text-align: center;
+}
+.ht{
+  text-align: center;
+}
+.pt {
+    text-align: center;
+    background-color: #F15A29;
+}
+.four {
+    display: inline-block;
+    vertical-align: top;
+}
+.breakfast {
+    background-image: url("../images/breakfast.jpg");
+    text-align: center;
+}
+.lunch {
+    background-image: url("../images/lunch.jpg");
+    text-align: center;
+}
+.dinner {
+    background-image: url("../images/dinner.jpg");
+    text-align: center;
+}
