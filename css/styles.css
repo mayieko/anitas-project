@@ -46,14 +46,14 @@
 }
 .food1{
   background-image: url("../images/fastFood1.jpg");
-  height: 20px;
-  padding: 50px;
+  height: 30px;
+  padding: 70px;
 }
 .food2{
   background-image: url("../images/fastFood2.jpg");
-  height: 20px;
-  padding: 50px;
+  height: 25px;
+  padding: 60px;
 }
 .container{
-  padding: : : 200px
+  height: : : : 200px
 }
